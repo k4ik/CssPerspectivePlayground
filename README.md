@@ -1,7 +1,3 @@
-# Vue 3 + Vite
+# CSS3 Perspective Playground
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img src="https://media.discordapp.net/attachments/1129232473470029864/1196500749983690762/css3-perspective-playground.png?ex=65b7db28&is=65a56628&hm=fa9532ed2f740c90726e5a36c209aafc8c5dd2795fb1fcb8ccacca9d499c3827&=&format=webp&quality=lossless&width=779&height=438" alt="css3 perspective playground">
